@@ -37,8 +37,10 @@ jobs:
           branch: automated/google-scholar-publications
           delete-branch: true
           commit-message: "Update publications from Google Scholar"
-          title: "Review new Google Scholar publications"
+          title: "Review Google Scholar updates"
           body: |
-            This automated monthly check found one or more new current-year publications on Google Scholar and added draft citation entries to `publications.html`.
+            This automated monthly check found one or more Google Scholar updates.
 
-            Please review the citation formatting, journal details, author order, and category before merging.
+            It may include new current-year publication entries in `publications.html`, an updated citation trend graphic in `assets/citation-trend.svg`, or both.
+
+            Please review the citation formatting, journal details, author order, category, and citation chart before merging.
