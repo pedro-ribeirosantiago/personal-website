@@ -1,0 +1,51 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" rx="48" fill="#F6F1EA"/>
+  <rect x="110" y="120" width="980" height="1260" rx="42" fill="#FBF8F4"/>
+  <circle cx="600" cy="750" r="144" fill="#A96B3C"/>
+  <circle cx="600" cy="750" r="102" fill="#FFF9F2"/>
+  <text x="600" y="738" text-anchor="middle" fill="#6B4222" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">MENTAL</text>
+  <text x="600" y="786" text-anchor="middle" fill="#6B4222" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">HEALTH</text>
+
+  <line x1="600" y1="606" x2="600" y2="390" stroke="#CDAA8A" stroke-width="10" stroke-linecap="round"/>
+  <line x1="722" y1="680" x2="900" y2="580" stroke="#CDAA8A" stroke-width="10" stroke-linecap="round"/>
+  <line x1="718" y1="819" x2="902" y2="916" stroke="#CDAA8A" stroke-width="10" stroke-linecap="round"/>
+  <line x1="600" y1="894" x2="600" y2="1114" stroke="#CDAA8A" stroke-width="10" stroke-linecap="round"/>
+  <line x1="480" y1="824" x2="299" y2="923" stroke="#CDAA8A" stroke-width="10" stroke-linecap="round"/>
+  <line x1="478" y1="683" x2="298" y2="581" stroke="#CDAA8A" stroke-width="10" stroke-linecap="round"/>
+
+  <circle cx="600" cy="300" r="108" fill="#E8D5C0"/>
+  <circle cx="960" cy="548" r="108" fill="#E8D5C0"/>
+  <circle cx="960" cy="953" r="108" fill="#E8D5C0"/>
+  <circle cx="600" cy="1200" r="108" fill="#E8D5C0"/>
+  <circle cx="240" cy="953" r="108" fill="#E8D5C0"/>
+  <circle cx="240" cy="548" r="108" fill="#E8D5C0"/>
+
+  <text x="600" y="292" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">STRESS</text>
+  <text x="960" y="540" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">SOCIAL</text>
+  <text x="960" y="580" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">SUPPORT</text>
+  <text x="960" y="945" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">RESILIENCE</text>
+  <text x="600" y="1192" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">EMOTION</text>
+  <text x="600" y="1232" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">REGULATION</text>
+  <text x="240" y="945" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">COPING</text>
+  <text x="240" y="540" text-anchor="middle" fill="#6E645A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">MEASUREMENT</text>
+
+  <circle cx="438" cy="420" r="18" fill="#A96B3C"/>
+  <circle cx="767" cy="433" r="18" fill="#A96B3C"/>
+  <circle cx="840" cy="752" r="18" fill="#A96B3C"/>
+  <circle cx="759" cy="1067" r="18" fill="#A96B3C"/>
+  <circle cx="438" cy="1080" r="18" fill="#A96B3C"/>
+  <circle cx="356" cy="751" r="18" fill="#A96B3C"/>
+
+  <line x1="438" y1="420" x2="240" y2="548" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="438" y1="420" x2="600" y2="300" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="767" y1="433" x2="960" y2="548" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="767" y1="433" x2="600" y2="300" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="840" y1="752" x2="960" y2="548" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="840" y1="752" x2="960" y2="953" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="759" y1="1067" x2="960" y2="953" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="759" y1="1067" x2="600" y2="1200" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="438" y1="1080" x2="600" y2="1200" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="438" y1="1080" x2="240" y2="953" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="356" y1="751" x2="240" y2="548" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+  <line x1="356" y1="751" x2="240" y2="953" stroke="#DFC7AF" stroke-width="6" stroke-linecap="round"/>
+</svg>

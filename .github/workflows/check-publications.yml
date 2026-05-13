@@ -1,0 +1,41 @@
+name: Check Google Scholar publications
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out website
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Check Google Scholar for new publications
+        run: node scripts/check-publications.mjs
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          GOOGLE_SCHOLAR_AUTHOR_ID: TGJTQwYAAAAJ
+
+      - name: Open review pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automated/google-scholar-publications
+          delete-branch: true
+          commit-message: "Update publications from Google Scholar"
+          title: "Review new Google Scholar publications"
+          body: |
+            This automated monthly check found one or more new current-year publications on Google Scholar and added draft citation entries to `publications.html`.
+
+            Please review the citation formatting, journal details, author order, and category before merging.

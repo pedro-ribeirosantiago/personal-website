@@ -1,0 +1,7 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="120" cy="120" r="116" fill="#FFFFFF" stroke="#A41034" stroke-width="8"/>
+  <circle cx="120" cy="120" r="88" fill="#F8E8ED"/>
+  <text x="120" y="112" text-anchor="middle" fill="#A41034" font-family="Georgia, serif" font-size="46" font-weight="700">H</text>
+  <text x="120" y="146" text-anchor="middle" fill="#A41034" font-family="Georgia, serif" font-size="26" font-weight="700">HARVARD</text>
+  <text x="120" y="170" text-anchor="middle" fill="#A41034" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">POSTDOC</text>
+</svg>
