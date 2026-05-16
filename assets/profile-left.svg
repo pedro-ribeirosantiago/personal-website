@@ -1,0 +1,9 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#F7F3EE"/>
+  <circle cx="450" cy="350" r="170" fill="#E7D6C4"/>
+  <path d="M246 880C246 733.109 365.109 614 512 614H518C664.891 614 784 733.109 784 880V960H246V880Z" fill="#D9BFA5"/>
+  <rect x="120" y="160" width="280" height="780" rx="36" fill="#EFE5D9"/>
+  <circle cx="450" cy="350" r="110" fill="#C89D78"/>
+  <path d="M305 955C327.754 791.551 467.906 668 634 668H662C762.516 668 844 749.484 844 850V955H305Z" fill="#9B6B3D"/>
+  <text x="120" y="1010" fill="#6E645A" font-family="Georgia, serif" font-size="56" letter-spacing="6">PEDRO H. R. S.</text>
+</svg>

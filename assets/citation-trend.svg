@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" role="img" aria-labelledby="citation-title citation-desc">
+  <title id="citation-title">Google Scholar citation trend</title>
+  <desc id="citation-desc">Transparent sketch-style bar chart of yearly Google Scholar citations generated through SerpAPI.</desc>
+  <defs>
+    <pattern id="sketch-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(-16)">
+      <path d="M0 7.5L8 7.5" stroke="#1f2937" stroke-width="1" opacity=".22"/>
+      <path d="M0 3.5L8 3.5" stroke="#1f2937" stroke-width=".75" opacity=".12"/>
+    </pattern>
+  </defs>
+  <g fill="none" stroke="#1f2937" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 206 C138 209 300 204 508 206" stroke-width="1.35" opacity=".46"/>
+    <path d="M58 36 C56 84 56 146 58 211" stroke-width="1.35" opacity=".46"/>
+    <path d="M54 206 C148 205 318 207 500 206" stroke-width=".8" opacity=".12"/>
+    <path d="M54 151.3 C148 150.3 318 152.3 500 151.3" stroke-width=".8" opacity=".12"/>
+    <path d="M54 96.7 C148 95.7 318 97.7 500 96.7" stroke-width=".8" opacity=".12"/>
+    <path d="M54 42 C148 41 318 43 500 42" stroke-width=".8" opacity=".12"/>
+  </g>
+  <g>
+    <path d="M58 206 L58 206 C71.47 203.6 87.634 206.2 102.9 205 L102.9 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M115.1 206 L115.1 198 C128.51 195.6 144.602 198.2 159.8 197 L159.8 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M172.1 206 L172.1 173.4 C185.45 171 201.47 173.6 216.6 172.4 L216.6 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M229.1 206 L229.1 151.4 C242.42 149 258.404 151.6 273.5 150.4 L273.5 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M285.8 206 L285.8 131.5 C299.09000000000003 129.1 315.038 131.7 330.1 130.5 L330.1 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M342.5 206 L342.5 132.8 C355.79 130.4 371.738 133 386.8 131.8 L386.8 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M399 206 L399 83.8 C412.32 81.39999999999999 428.304 84 443.4 82.8 L443.4 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M455.4 206 L455.4 144.2 C468.78 141.79999999999998 484.83599999999996 144.39999999999998 500 143.2 L500 206 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+  </g>
+  <g fill="#1f2937" font-family="Georgia, serif">
+    <text x="270" y="24" font-size="16" text-anchor="middle" opacity=".58">Citations (Google Scholar)</text>
+    <text x="28" y="210" font-size="11" opacity=".64">0</text>
+    <text x="16" y="155.3" font-size="11" opacity=".64">100</text>
+    <text x="16" y="100.7" font-size="11" opacity=".64">200</text>
+    <text x="16" y="46" font-size="11" opacity=".64">300</text>
+    <text x="80.4" y="196.4" font-size="11" text-anchor="middle" opacity=".82">3</text>
+    <text x="137.2" y="188.2" font-size="11" text-anchor="middle" opacity=".82">18</text>
+    <text x="193.9" y="163.6" font-size="11" text-anchor="middle" opacity=".82">63</text>
+    <text x="250.7" y="141.7" font-size="11" text-anchor="middle" opacity=".82">103</text>
+    <text x="307.4" y="122" font-size="11" text-anchor="middle" opacity=".82">139</text>
+    <text x="364.2" y="123.7" font-size="11" text-anchor="middle" opacity=".82">136</text>
+    <text x="420.9" y="75" font-size="11" text-anchor="middle" opacity=".82">225</text>
+    <text x="477.7" y="135.7" font-size="11" text-anchor="middle" opacity=".82">114</text>
+    <text x="80.4" y="228" font-size="11" text-anchor="middle" opacity=".72">2019</text>
+    <text x="137.2" y="228" font-size="11" text-anchor="middle" opacity=".72">2020</text>
+    <text x="193.9" y="228" font-size="11" text-anchor="middle" opacity=".72">2021</text>
+    <text x="250.7" y="228" font-size="11" text-anchor="middle" opacity=".72">2022</text>
+    <text x="307.4" y="228" font-size="11" text-anchor="middle" opacity=".72">2023</text>
+    <text x="364.2" y="228" font-size="11" text-anchor="middle" opacity=".72">2024</text>
+    <text x="420.9" y="228" font-size="11" text-anchor="middle" opacity=".72">2025</text>
+    <text x="477.7" y="228" font-size="11" text-anchor="middle" opacity=".72">2026</text>
+    <text x="279" y="258" font-size="16" text-anchor="middle" opacity=".58">(Total=800, h-index=15)</text>
+  </g>
+</svg>
