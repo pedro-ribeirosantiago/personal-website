@@ -11,34 +11,36 @@
     <path d="M48 174 C138 177 300 172 508 174" stroke-width="1.35" opacity=".46"/>
     <path d="M58 24 C56 72 56 134 58 179" stroke-width="1.35" opacity=".46"/>
     <path d="M54 174 C148 173 318 175 500 174" stroke-width=".8" opacity=".12"/>
-    <path d="M54 126 C148 125 318 127 500 126" stroke-width=".8" opacity=".12"/>
-    <path d="M54 78 C148 77 318 79 500 78" stroke-width=".8" opacity=".12"/>
+    <path d="M54 138 C148 137 318 139 500 138" stroke-width=".8" opacity=".12"/>
+    <path d="M54 102 C148 101 318 103 500 102" stroke-width=".8" opacity=".12"/>
+    <path d="M54 66 C148 65 318 67 500 66" stroke-width=".8" opacity=".12"/>
     <path d="M54 30 C148 29 318 31 500 30" stroke-width=".8" opacity=".12"/>
   </g>
   <g>
-    <path d="M58 174 L58 174.2 C71.47 171.79999999999998 87.634 174.39999999999998 102.9 173.2 L102.9 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
-    <path d="M115.1 174 L115.1 167.6 C128.51 165.2 144.602 167.79999999999998 159.8 166.6 L159.8 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
-    <path d="M172.1 174 L172.1 148 C185.45 145.6 201.47 148.2 216.6 147 L216.6 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
-    <path d="M229.1 174 L229.1 127.2 C242.42 124.8 258.404 127.4 273.5 126.2 L273.5 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
-    <path d="M285.8 174 L285.8 110.2 C299.09000000000003 107.8 315.038 110.4 330.1 109.2 L330.1 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
-    <path d="M342.5 174 L342.5 107.9 C355.79 105.5 371.738 108.10000000000001 386.8 106.9 L386.8 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
-    <path d="M399 174 L399 67.8 C412.32 65.39999999999999 428.304 68 443.4 66.8 L443.4 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
-    <path d="M455.4 174 L455.4 54 C468.78 51.6 484.83599999999996 54.2 500 53 L500 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M58 174 L58 174.5 C71.47 172.1 87.634 174.7 102.9 173.5 L102.9 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M115.1 174 L115.1 169.7 C128.51 167.29999999999998 144.602 169.89999999999998 159.8 168.7 L159.8 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M172.1 174 L172.1 154.6 C185.45 152.2 201.47 154.79999999999998 216.6 153.6 L216.6 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M229.1 174 L229.1 139.3 C242.42 136.9 258.404 139.5 273.5 138.3 L273.5 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M285.8 174 L285.8 125.5 C299.09000000000003 123.1 315.038 125.7 330.1 124.5 L330.1 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M342.5 174 L342.5 124.7 C355.79 122.3 371.738 124.9 386.8 123.7 L386.8 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M399 174 L399 95.2 C412.32 92.8 428.304 95.4 443.4 94.2 L443.4 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
+    <path d="M455.4 174 L455.4 61.5 C468.78 59.1 484.83599999999996 61.7 500 60.5 L500 174 Z" fill="url(#sketch-hatch)" stroke="#1f2937" stroke-width="1.6" opacity=".9"/>
   </g>
   <g fill="#1f2937" font-family="Georgia, serif">
     <text x="270" y="24" font-size="16" text-anchor="middle" opacity=".58">Citations (Google Scholar)</text>
     <text x="28" y="178" font-size="11" opacity=".64">0</text>
-    <text x="16" y="130" font-size="11" opacity=".64">100</text>
-    <text x="16" y="82" font-size="11" opacity=".64">200</text>
-    <text x="16" y="34" font-size="11" opacity=".64">300</text>
-    <text x="80.4" y="164.6" font-size="11" text-anchor="middle" opacity=".82">3</text>
-    <text x="137.2" y="157.8" font-size="11" text-anchor="middle" opacity=".82">17</text>
-    <text x="193.9" y="138.2" font-size="11" text-anchor="middle" opacity=".82">58</text>
-    <text x="250.7" y="117.5" font-size="11" text-anchor="middle" opacity=".82">101</text>
-    <text x="307.4" y="100.7" font-size="11" text-anchor="middle" opacity=".82">136</text>
-    <text x="364.2" y="98.8" font-size="11" text-anchor="middle" opacity=".82">140</text>
-    <text x="420.9" y="59" font-size="11" text-anchor="middle" opacity=".82">223</text>
-    <text x="477.7" y="45.5" font-size="11" text-anchor="middle" opacity=".82">251</text>
+    <text x="16" y="142" font-size="11" opacity=".64">100</text>
+    <text x="16" y="106" font-size="11" opacity=".64">200</text>
+    <text x="16" y="70" font-size="11" opacity=".64">300</text>
+    <text x="16" y="34" font-size="11" opacity=".64">400</text>
+    <text x="80.4" y="164.9" font-size="11" text-anchor="middle" opacity=".82">3</text>
+    <text x="137.2" y="159.9" font-size="11" text-anchor="middle" opacity=".82">17</text>
+    <text x="193.9" y="144.8" font-size="11" text-anchor="middle" opacity=".82">59</text>
+    <text x="250.7" y="129.6" font-size="11" text-anchor="middle" opacity=".82">101</text>
+    <text x="307.4" y="116" font-size="11" text-anchor="middle" opacity=".82">139</text>
+    <text x="364.2" y="115.6" font-size="11" text-anchor="middle" opacity=".82">140</text>
+    <text x="420.9" y="86.4" font-size="11" text-anchor="middle" opacity=".82">221</text>
+    <text x="477.7" y="53" font-size="11" text-anchor="middle" opacity=".82">314</text>
     <text x="80.4" y="194" font-size="11" text-anchor="middle" opacity=".72">2019</text>
     <text x="137.2" y="194" font-size="11" text-anchor="middle" opacity=".72">2020</text>
     <text x="193.9" y="194" font-size="11" text-anchor="middle" opacity=".72">2021</text>
@@ -47,6 +49,6 @@
     <text x="364.2" y="194" font-size="11" text-anchor="middle" opacity=".72">2024</text>
     <text x="420.9" y="194" font-size="11" text-anchor="middle" opacity=".72">2025</text>
     <text x="477.7" y="194" font-size="11" text-anchor="middle" opacity=".72">2026</text>
-    <text x="279" y="258" font-size="16" text-anchor="middle" opacity=".58">(Total=946, h-index=17)</text>
+    <text x="279" y="258" font-size="16" text-anchor="middle" opacity=".58">(Total=1,016, h-index=18)</text>
   </g>
 </svg>
